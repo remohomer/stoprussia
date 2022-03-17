@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navItem1"
+        android:title="@string/fragment_home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/navItem2"
+        android:title="@string/fragment_scan"
+        android:icon="@drawable/ic_qrcode" />
+
+    <item
+        android:id="@+id/navItem3"
+        android:title="@string/fragment_list"
+        android:icon="@drawable/ic_list" />
+
+    <item
+        android:id="@+id/navItem4"
+        android:title="@string/fragment_add"
+        android:icon="@drawable/ic_add" />
+
+    <item
+        android:id="@+id/navItem5"
+        android:title="@string/fragment_info"
+        android:icon="@drawable/ic_info" />
+</menu>

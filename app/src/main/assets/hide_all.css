@@ -1,0 +1,13 @@
+.is-header,
+.is-breadcrumb,
+.is-sidebar,
+.sg_switch,
+.is-backButton,
+.sg_promo_zw,
+.is-newsletter,
+.is-footer,
+.is-copyrights_short,
+.is-copyrights
+  {
+	display: none !important;
+}

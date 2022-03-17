@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#d32f1f</color>
+    <color name="purple_500">#d32f1f</color>
+    <color name="purple_700">#003fa2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#003fa2</color>
+
+
+    <color name="red">#c75450</color>
+    <color name="pink">#f7466a</color>
+    <color name="orange">#ff8040</color>
+    <color name="yellow">#ffd034</color>
+    <color name="button_dark">#292D36</color>
+    <color name="black_shade_1">#383838</color>
+    <color name="black_shade_2">#555555</color>
+    <color name="black_shade_2_50">#88555555</color>
+    <color name="green">#27aa6d</color>
+    <color name="green_v2">#0B6E0B</color>
+    <color name="green_75">#7508a871</color>
+
+    <color name="InactiveBottomNavIconColor">#AAFFFFFF</color>
+
+    <color name="russia_blue_75">#aa003fa2</color>
+    <color name="russia_blue">#003fa2</color>
+    <color name="russia_red">#d32f1f</color>
+
+
+</resources>

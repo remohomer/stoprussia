@@ -1,0 +1,182 @@
+<resources>
+    <!--  app  -->
+    <string name="app_name">STOP Russia</string>
+
+    <!--  fragments  -->
+    <string name="fragment_home">Home</string>
+    <string name="fragment_scan">Scan</string>
+    <string name="fragment_list">List</string>
+    <string name="fragment_add">Add</string>
+    <string name="fragment_info">Info</string>
+
+    <!--  info fragment tabs -->
+    <string name="tab_info">Info</string>
+    <string name="tab_about">How it works?</string>
+    <string name="tab_help">Help</string>
+    <string name="tab_report">Report</string>
+
+    <!--  scanner result interpreter -->
+
+    <!--  countries -->
+    <string name="country_usa">Product from the USA</string>
+    <string name="country_france_monaco">Product from France or Monaco</string>
+    <string name="country_bulgaria">Product from Bulgaria</string>
+    <string name="country_slovenia">Product from Slovenia</string>
+    <string name="country_croatia">Product from Croatia</string>
+    <string name="country_bosnia_and_herzegovina">Product from Bosnia and Herzegovina</string>
+    <string name="country_montenegro">Product from Montenegro</string>
+    <string name="country_germany">Product from Germany</string>
+    <string name="country_japan">Product from Japan</string>
+    <string name="country_russia">Product from Russia</string>
+    <string name="country_kyrgyzstan">Product from Kyrgyzstan</string>
+    <string name="country_taiwan">Product from Taiwan</string>
+    <string name="country_estonia">Product from Estonia</string>
+    <string name="country_latvia">Product from Latvia</string>
+    <string name="country_azerbaijan">Product from Azerbaijan</string>
+    <string name="country_lithuanian">Lithuanian product</string>
+    <string name="country_uzbekistan">Product from Uzbekistan</string>
+    <string name="country_sri_lanka">Sri Lankan product</string>
+    <string name="country_philippines">Product from the Philippines</string>
+    <string name="country_belarus">Product from Belarus</string>
+    <string name="country_ukraine">Product from Ukraine</string>
+    <string name="country_turkmenistan">Product from Turkmenistan</string>
+    <string name="country_moldova">Product from Moldova</string>
+    <string name="country_armenia">Product from Armenia</string>
+    <string name="country_georgia">Product from Georgia</string>
+    <string name="country_kazakhstan">Product from Kazakhstan</string>
+    <string name="country_tajikistan">Product from Tajikistan</string>
+    <string name="country_hong_kong">Hong Kong product</string>
+    <string name="country_great_britain">Product from Great Britain</string>
+    <string name="country_greece">Product from Greece</string>
+    <string name="country_lebanon">Product from Lebanon</string>
+    <string name="country_cyprus">Product from Cyprus</string>
+    <string name="country_albania">Product from Albania</string>
+    <string name="country_north_macedonia">Product from North Macedonia</string>
+    <string name="country_malta">Product from Malta</string>
+    <string name="country_ireland">Product from Ireland</string>
+    <string name="country_belgium_luxembourg">Product from Belgium or Luxembourg</string>
+    <string name="country_portugal">Product from Portugal</string>
+    <string name="country_iceland">Product from Iceland</string>
+    <string name="country_denmark_faroe_islands_greenlan">Product from Denmark, Faroe Islands or Greenland</string>
+    <string name="country_poland">Product from Poland</string>
+    <string name="country_romania">Product from Romania</string>
+    <string name="country_hungary">Product from Hungary</string>
+    <string name="country_rpa">Product from South Africa</string>
+    <string name="country_ghana">Product from Ghana</string>
+    <string name="country_senegal">Product from Senegal</string>
+    <string name="country_bahrain">Product from Bahrain</string>
+    <string name="country_mauritis">The product of Mauritis</string>
+    <string name="country_morocco">A product from Morocco</string>
+    <string name="country_algeria">Product from Algeria</string>
+    <string name="country_nigeria">Product from Nigeria</string>
+    <string name="country_kenya">Product from Kenya</string>
+    <string name="country_cameroon">Cameroon product</string>
+    <string name="country_ivory_coast">Product from the Ivory Coast</string>
+    <string name="country_tunisia">Product from Tunisia</string>
+    <string name="country_tanzania">Product from Tanzania</string>
+    <string name="country_syria">Product from Syria</string>
+    <string name="country_egypt">Product from Egypt</string>
+    <string name="country_brunei">Product from Brunei</string>
+    <string name="country_libya">Product from Libya</string>
+    <string name="country_jordan">Product from Jordan</string>
+    <string name="country_iran">Product from Iran</string>
+    <string name="country_kuwait">Product from Kuwait</string>
+    <string name="country_saudi_arabia">Product from Saudi Arabia</string>
+    <string name="country_united_arab_emirates">Product from the United Arab Emirates</string>
+    <string name="country_finland">Product from Finland</string>
+    <string name="country_china">Product from the China</string>
+    <string name="country_norway">Product from Norway</string>
+    <string name="country_israel">Product from Israel</string>
+    <string name="country_sweden">Product from Sweden</string>
+    <string name="country_gwaremala">A product from Gwaremala</string>
+    <string name="country_el_salvador">Product from El Salvador</string>
+    <string name="country_honduras">Honduran product</string>
+    <string name="country_nicaragua">A product from Nicaragua</string>
+    <string name="country_costa_rica">Costa Rican product</string>
+    <string name="country_panama">Panama product</string>
+    <string name="country_dominican_republic">A product from the Dominican Republic</string>
+    <string name="country_mexico">Product from Mexico</string>
+    <string name="country_canada">Product from Canada</string>
+    <string name="country_venezuelan">Venezuelan product</string>
+    <string name="country_switzerland_liechtenstein">Product from Switzerland or Liechtenstein</string>
+    <string name="country_colombia">Product from Colombia</string>
+    <string name="country_uruguay">Product from Uruguay</string>
+    <string name="country_peru">Product from Peru</string>
+    <string name="country_bolivia">Product from Bolivia</string>
+    <string name="country_argentina">Product from Argentina</string>
+    <string name="country_chile">Product from Chile</string>
+    <string name="country_paraguay">Product from Paraguay</string>
+    <string name="country_ecuador">Product from Ecuador</string>
+    <string name="country_brazil">Product from Brazil</string>
+    <string name="country_italy_san_marino_vatican">A product from Italy, San Marino or the Vatican</string>
+    <string name="country_spain_andorra">Product from Spain or Andorra</string>
+    <string name="country_cuba">Product from Cuba</string>
+    <string name="country_slovakia">Product from Slovakia</string>
+    <string name="country_czech_republic">Product from the Czech Republic</string>
+    <string name="country_serbia">Product from Serbia</string>
+    <string name="country_mongolia">Product from Mongolia</string>
+    <string name="country_north_korea">North Korean product</string>
+    <string name="country_turkey">Product from Turkey</string>
+    <string name="country_netherlands">Product from the Netherlands</string>
+    <string name="country_south_korea">Product from South Korea</string>
+    <string name="country_burma">Product from Burma</string>
+    <string name="country_cambodian">Cambodian product</string>
+    <string name="country_thailand">Product from Thailand</string>
+    <string name="country_singapore">Product from Singapore</string>
+    <string name="country_india">Product from India</string>
+    <string name="country_vietnam">Product from Vietnam</string>
+    <string name="country_pakistan">Product from Pakistan</string>
+    <string name="country_indonesia">Product from Indonesia</string>
+    <string name="country_austria">Product from Austria</string>
+    <string name="country_australia">Product from Australia</string>
+    <string name="country_new_zealand">New Zealand product</string>
+    <string name="country_malaysia">Product from Malaysia</string>
+    <string name="country_macau">A product from Macau</string>
+
+    <string name="other_supermarket_weighing_goods_extensions">The country cannot be determined. This type of code is assigned to supermarket weights or to internal numbers.</string>
+    <string name="other_usa_medications">USA medications</string>
+    <string name="other_limited_distribution_extensions">The country cannot be determined. This type of code is assigned to items with restricted distribution or to internal numbers.</string>
+    <string name="other_limited_distribution">The country cannot be determined. This type of code is assigned to restricted goods.</string>
+    <string name="other_gs1_global_office">Country cannot be determined. This type of code is assigned to the GS1 Global Office.</string>
+    <string name="other_gs1_global_office_epcglobal">Country cannot be determined. This type of code is assigned to the GS1 Global Office(EPCglobal).</string>
+    <string name="other_global_office_gs1">Country cannot be determined. This type of code is assigned to the GS1 Global Office(GTIN-8).</string>
+    <string name="other_issn">Country cannot be determined. This type of code (ISSN) is assigned to publishers for serial publication.</string>
+    <string name="other_isbn">Country cannot be determined. This type of code (ISBN) is assigned to identify books.</string>
+    <string name="other_return_bills">The country cannot be determined. This type of code is assigned to the return bills.</string>
+    <string name="other_coupons_for_the_common_currency">Country cannot be determined. This type of code is assigned to coupons for the common currency.</string>
+    <string name="other_coupons">Country cannot be determined. This type of code is assigned to coupons.</string>
+
+
+    <string name="scanner_other">Product from a country not supporting Russia</string>
+    <string name="scanner_invalid">Invalid code format</string>
+
+    <!--  scanner layout -->
+    <string name="scanner_autofocus">Autofocus</string>
+    <string name="flashlight">Flashlight</string>,
+    <string name="scanner_call_to_action">Scan barcode</string>
+    <string name="attention">ATTENTION</string>
+    <string name="scanner_result">Result</string>
+    <string name="scanner_scan_next">Scan next</string>
+    <string name="scanner_permission_description">To enable the barcode scanning function, we need your consent to use the camera</string>
+    <string name="scanner_permission_accept">I agree</string>
+
+    <!--  dexter permissions -->
+
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+
+    <!--  no connection alert -->
+
+    <string name="no_network">No network!</string>
+    <string name="no_network_description">Unable to establish a connection. \nCheck your internet connection.</string>
+    <string name="try_again">Try again</string>
+    <string name="connect_to_network">Connect to the network</string>
+    <string name="offline_mode">Offline mode</string>
+    <string name="go_back_online_mode">Go back to online mode</string>
+    <string name="go_to_scanner">Go to scanner</string>
+    <string name="offline_tittle">Only the barcode scanner is available offline</string>
+    <string name="country_qatar">Product from Qatar</string>
+    <string name="country_namibia">Product from Namibia</string>
+
+
+</resources>

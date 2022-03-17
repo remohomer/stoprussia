@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable-anydpi/copy.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable-anydpi/download.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/bg_round.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_account.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_add.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_bad.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_cart.xml" value="0.2045" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_good.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_good_maybe.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_help.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_home.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_info.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_list.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_network_off.xml" value="0.2235" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_qrcode.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_settings.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_special_offers.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/ic_warning.xml" value="0.2045" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/drawable/progress_bar.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_app_bar_address_book.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_app_bar_complains.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_app_bar_my_opinions.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_app_bar_profile_settings.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_launcher.xml" value="0.2046875" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_login.xml" value="0.20108695652173914" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/allert_dialog.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_account.xml" value="0.20108695652173914" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_add.xml" value="0.19114583333333332" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_cart.xml" value="0.19791666666666666" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_contact.xml" value="0.1947463768115942" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_info.xml" value="0.20108695652173914" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_info_about.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_info_help.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_info_report.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_list.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_report.xml" value="0.1947463768115942" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_sale.xml" value="0.20108695652173914" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_scanner.xml" value="0.25" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_about.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_contact.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_coupons.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_faq.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_orders.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_policy.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_report.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_rules.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_storage.xml" value="0.17346014492753623" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/layout/fragment_tab_update.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/menu/app_bar.xml" value="0.13796296296296295" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/menu/nav_menu.xml" value="0.2046875" />
+        <entry key="..\:/Projekty/Android Studio/Ruskie/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1355" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable-anydpi/copy.xml" value="0.226" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable-anydpi/download.xml" value="0.226" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable-anydpi/refresh.xml" value="0.226" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/bg_round.xml" value="0.205" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_account.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_cart.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_contact_phone.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_dashboard.xml" value="0.2025" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_home.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_info.xml" value="0.18" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_network_off.xml" value="0.205" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_outlet.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/ic_special_offers.xml" value="0.1765" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/drawable/progress_bar.xml" value="0.196" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_app_bar.xml" value="0.25" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_app_bar_address_book.xml" value="0.1703125" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_app_bar_complains.xml" value="0.25742574257425743" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_app_bar_my_opinions.xml" value="0.25742574257425743" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_app_bar_profile_settings.xml" value="0.25742574257425743" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_launcher.xml" value="0.17" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_login.xml" value="0.2171875" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/allert_dialog.xml" value="0.25" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_account.xml" value="0.18885869565217392" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_app_bar.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_app_bar_adress_book.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_app_bar_my_complains.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_app_bar_my_opinions.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_app_bar_profile_settings.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_card.xml" value="0.2033514492753623" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_cart.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_contact.xml" value="0.18885869565217392" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.17395833333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_first.xml" value="0.2171875" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_info.xml" value="0.15" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_login.xml" value="0.24230072463768115" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_notification.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_other.xml" value="0.1702127659574468" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_outlet.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_profile_settings.xml" value="0.18840579710144928" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_promotions.xml" value="0.16979166666666667" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_sale.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_special_offers.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_about.xml" value="0.1852355072463768" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_complains.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_contact.xml" value="0.16979166666666667" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_coupons.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_discount_codes.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_faq.xml" value="0.16979166666666667" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_help.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_info.xml" value="0.1852355072463768" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_orders.xml" value="0.21467391304347827" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_personal_data.xml" value="0.2033514492753623" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_policy.xml" value="0.1852355072463768" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_profile.xml" value="0.22" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_promotions.xml" value="0.16979166666666667" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_rules.xml" value="0.2033514492753623" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/layout/fragment_tab_update.xml" value="0.1852355072463768" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/menu/app_bar.xml" value="0.3489583333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/menu/bn_menu.xml" value="0.17395833333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/menu/main.xml" value="0.3489583333333333" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/menu/menu2.xml" value="0.2578125" />
+        <entry key="..\:/Projekty/Android Studio/SiteLikeApp/app/src/main/res/menu/nav_menu.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
